@@ -39,3 +39,4 @@ In this task, you will create the visuals around four of the questions that the 
 
 # Task3: 
 Develop a script and record a video presenting your findings to the CEO and CMO based on the four questions they asked and the visuals you created in the previous tasks.
+<img width="1481" height="798" alt="17609359759408321703409291573727" src="https://github.com/user-attachments/assets/5d6d9d5c-4821-4569-8ed0-e27c8251dd62" />
