@@ -1,4 +1,11 @@
+![17609368954133802155550980308189](https://github.com/user-attachments/assets/f11c5560-1ae6-4ef4-a26e-12bd23d3733e)
+
+
 # Forage-TATA-DATA-VISUAUSATION
+
+![17609368431207140696344757168821](https://github.com/user-attachments/assets/7f6e9e2b-4642-493c-8698-5108909d949c)
+
+
 This is a Virtual internship programme in which we will be using Excel, Tableau and Microsoft PPT for data cleaning, data analyzing, data visualization and creating data insights to answer business related questions.
 
 Navigation Menu
