@@ -23,9 +23,9 @@ Anamika12
 2 years ago
 README.md
 2 years ago
-Task 1 - Questions.docx
+*Task 1* - Questions.docx
 2 years ago
-Task 2- TATA data visualisation.twb
+*Task 2*- TATA data visualisation.twb
 2 years ago
 Task3- TATA data presentation pdf.pptx
 2 years ago
