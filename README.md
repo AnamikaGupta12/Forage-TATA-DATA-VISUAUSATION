@@ -12,22 +12,18 @@ This is a Virtual internship programme in which we will be using Excel, Tableau 
 Forage-TATA-DATA-VISUATISATION
 Name: Anamika12
 Anamika12
-2 years ago
 
 # README.md
-2 years ago
-*Task 1* - Questions.doc
+Task 1 - Questions.doc
 
-2 years ago
-*Task 2*- TATA data visualisation.twb
+Task 2 - TATA data visualisation.twb
 
-2 years ago
 Task3- TATA data presentation pdf.pptx
 
-2 years ago
 Repository files navigation
 
 # README
+
 Forage-TATA-Data-Visualisation
 
 This is a Virtual internship programme in which we will be using Excel, Power Bi and Microsoft PPT for data cleaning, data analyzing, data visualization and creating data insights to answer business related questions
